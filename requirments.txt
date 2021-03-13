@@ -1,0 +1,6 @@
+PyPDF2
+FPDF
+termcolor
+PyMuPDF
+Pillow
+pdf2image
